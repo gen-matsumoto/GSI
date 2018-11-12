@@ -11,7 +11,7 @@ NOPT="-I/usr/local/netcdf4/include -L/usr/local/netcdf4/lib -lnetcdff"
 #
 # Create 
 #
-cd Program/Domain01
+cd Domain01
 exe=step1d01readGeog_em
 fort_src=${exe}.f95
 $FC ${fort_src} $COPT $NOPT $DOPT -o $exe
