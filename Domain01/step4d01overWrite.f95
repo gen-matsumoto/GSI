@@ -1,6 +1,6 @@
 ! ----- 10 ------ 20 ------ 30 ------ 40 ------ 50 ------ 60 ------ 70 ------ 80
 !$ ncdump -h geo_em.d02.nc 
-!   ./Input/ncdump.txtを参照
+!   Refer to ./Input/ncdump.txt
 ! ----- 10 ------ 20 ------ 30 ------ 40 ------ 50 ------ 60 ------ 70 ------ 80
 program d01_overWrite
   use netcdf
