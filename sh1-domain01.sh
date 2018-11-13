@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# ------------------------------- Created by Gessei Matsumoto at April 13, 2018.
+# ------------------------------- Created at April 13, 2018.
 # This script costs about 6m35s in this iMac.
 #
 FC=gfortran
